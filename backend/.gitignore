@@ -1,0 +1,37 @@
+# Ambiente Virtual
+.venv/
+venv/
+env/
+ENV/
+
+# Variáveis de Ambiente
+.env
+.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Banco de Dados
+*.db
+*.sqlite
+*.sqlite3
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Alembic
+alembic/versions/*.pyc

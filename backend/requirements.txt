@@ -21,10 +21,10 @@ python-multipart==0.0.6
 python-dotenv==1.0.0
 pytz==2023.3
 
-# Integração com IA (para Fase 5)
+# Integração com IA
 anthropic==0.7.8
 
-# Integrações Externas (para Fases 4 e 6)
+# Integrações Externas
 google-api-python-client==2.108.0
 google-auth-httplib2==0.1.1
 google-auth-oauthlib==1.1.0
